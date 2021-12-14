@@ -1,0 +1,9 @@
+{
+	"[markdown]": {
+		"editor.unicodeHighlight.ambiguousCharacters": false,
+		"editor.wordWrap": "on",
+		"editor.quickSuggestions": false,
+		"editor.formatOnSave": false,
+		"editor.renderWhitespace": "all"
+	}
+}
