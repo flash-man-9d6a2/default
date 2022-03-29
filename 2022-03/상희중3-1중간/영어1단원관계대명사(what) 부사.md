@@ -5,7 +5,7 @@ The shop doesn't have what I need to buy.	| 그 가게에는 내가 사야 하�
 This is different from what I expected. 	| 이것은 내가 기대했던 것과 다르다.
 You're not plying attention! Please listen to what I'm saying.	| 너는 집중하지 않고 있구나! 내가 말하는 것을 들어 줘.
 The shoes are beautiful! You have what I'm looking for.	| 신발이 예뻐요! 당신은 제가 찾고 있는 것을 가지고 있네요.
-When your mom sees what you did, she will be happy.	| 너의 엄마가 네가 한 것을 보신다면, 기뻐라실 거야.
+When your mom sees what you did, she will be happy.	| 너의 엄마가 네가 한 것을 보신다면, 기뻐하실 거야.
 Did you understand what I said?	| 너는 내가 말한 것을 이해했니?
 Did you go shopping? Let me see what you bought.	| 쇼핑하러 갔었니? 네가 산 것을 내게 보여 줘.
 Tell me what you know about Mars.	| 화성에 관해 네가 아는 것을 내게 말해 줘.
