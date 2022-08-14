@@ -1,28 +1,25 @@
-
- q  | a
---- | ---
-compare	| 비교하다, 대조하다, 비유하다
-divide	| 나누다, 갈라지다
-leave	| 떠나다, 그만두다, 남겨두다
-follow	| 따라가다(오다), 따르다, 이해하다
-control	| 통제하다, 억제하다, 지배하다, 조절하다
-conclude	| 끝내다
-occur	| 발생하다, 일어나다, 떠오르다
-notice	| 알아차리다, 주목하다, 통지서, 게시물
-fit	| 맞다, 어울리다 어울리는, 건강한
-suggest	| 제안하다, 암시하다, 시사하다
-relate	| 관련시키다, 관련이 있다
-concentrate	| 집중하다, 집중시키다, 농축하다, 농축물
-develop	| 발달시키다, 발전하다, 개발하다, 현상하다
-prevent	| 막다, 방해하다, 예방하다
-motivate	| 동기를 부여하다, 이유가 되다
-belong	| 소유이다, 속하다
-recongnize	| 알아보다, 분간하다, 인정하다
-remind	| 상기시키다, 생각나게 하다
-confuse	| 혼동하다, 혼란스럽게 하다
-involve	| 포함하다, 수반하다, 연루시키다, 관련시키다
-claim	| 주장하다, 요구하다
-demand	| 요구하다, 요청하다, 수요
-tend	| 경향이 있다, ~하기 쉽다, 돌보다, 보살피다
-recommend	| 추천하다, 권고하다, 권장하다
-respond	| 대답하다, 응답하다, 반응하다
+compare	비교하다
+divide	나누다
+leave	떠나다
+follow	따라가다
+control	통제하다
+conclude	끝내다
+occur	발생하다
+notice	통지서
+fit	맞다
+suggest	제안하다
+relate	관련시키다
+concentrate	농축물
+develop	발전하다
+prevent	막다
+motivate	동기를 부여하다
+belong	속하다
+recongnize	알아보다
+remind	상기시키다
+confuse	혼동하다
+involve	포함하다
+claim	요구하다
+demand	수요
+tend	경향이 있다
+recommend	추천하다
+respond	대답하다
