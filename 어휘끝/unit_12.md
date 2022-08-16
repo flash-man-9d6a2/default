@@ -1,0 +1,26 @@
+detective	탐정
+mystery	미스터리
+incident	사건
+theft	절도
+jewel	보석
+burglar	강도
+clue	단서
+suspect	용의자
+suspicion	혐의
+scan	유심히 살피다
+proof	증거
+certain	확실한
+escape	도망치다
+chase	뒤쫓다
+arrest	체포하다
+handcuff	수갑
+law	법
+legal	법적인
+trial	재판
+court	법정
+evidence	증거
+witness	목격자
+jury	배심원
+guilty	유죄의
+admit	인정하다
+fake	가짜의
