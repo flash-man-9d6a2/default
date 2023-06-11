@@ -4,7 +4,7 @@ suspend 		| 매달리다,일시정지하다
 annual 		| 일 년의, 매년의
 wig    		| 가발
 grow out   		| 자라게 놔두다
-deleloping country 		| 개발도상국
+developing country 		| 개발도상국
 be away		| 집을 비우다
 slip one's mind(memory)		| 잊히다, 깜빡하다 
 trouser		| 바지
