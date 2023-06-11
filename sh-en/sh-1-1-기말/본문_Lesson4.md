@@ -9,7 +9,7 @@ be away		| 집을 비우다
 slip one's mind(memory)		| 잊히다, 깜빡하다 
 trouser		| 바지
 bazaar 		| 바자회, 자선시장
-might as well+R		| ~하는 ㅕㄴ이 더 낫다
+might as well+R		| ~하는 편이 더 낫다
 upset  		| 혼란한, 당황한, 뒤집힌
 sound  		| 건강한
 take ~ for granted 		| ~를 당연하게 여기다
