@@ -1,0 +1,120 @@
+41
+delight
+기쁨, 기쁘게 하다
+61
+flood
+홍수, 범람시키다
+42
+confident
+자신 있는
+62
+fuel
+연료, 연료를 가하다
+43
+gradually
+점차, 서서히
+63
+manufacture
+제조하다, 제조(업), 제품
+44
+shadow
+그림자, 그늘지게 하다
+64
+movement
+움직임, 운동
+45
+access
+접근, 이용, 접근하다
+65
+capable
+~을 할 수 있는, 유능한
+46
+announce
+발표하다, 알리다
+66
+combine
+결합시키다, 겸비하다
+47
+allow
+허락하다, 인정하다
+67
+gene
+유전자
+48
+firm
+확고한, 단단한, 회사
+68
+increase
+(수량이) 증가하다, 증가, 이자
+49
+vary
+바꾸다, 변하다, 다르다
+69
+victim
+희생, 희생자
+50
+injure
+상처를 입히다, 손상시키다
+70
+pressure
+압력, 압박, 압력을 가하다
+51
+permit
+허용[허락]하다
+71
+accompany
+동반[동행] 하다, 수반하다
+52
+response
+응답, 반응
+72
+frustrate
+좌절시키다
+53
+threat
+위협, 협박
+73
+construct
+건설하다
+54
+electricity
+전기
+74
+dwindle
+점점 줄어들다, 저하되다
+55
+disabled
+장애를 가진, 무능력하게 된
+75
+commerce
+상업, 교역
+56
+lack
+부족, ~이 부족하다
+76
+entertain
+즐겁게 하다
+57
+signify
+의미하다, 중요하다
+77
+predict
+예언하다, 예측하다
+58
+concentrate
+집중하다
+78
+apologize
+사과하다
+59
+emphasize
+강조하다
+79
+sight
+시야, 광경, 시력
+60
+astronomy
+천문학
+80
+quantity
+양(量)

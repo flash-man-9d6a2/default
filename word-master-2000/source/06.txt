@@ -1,0 +1,120 @@
+41
+specific
+구체적인, 특정한
+61
+route
+길, 통로, 항로
+42
+react
+반응하다, 반작용하다
+62
+psychology
+심리, 심리학
+43
+independent
+독립적인
+63
+passion
+열정
+44
+theory
+이론
+64
+import
+수입하다, 의미하다, 수입
+45
+qualify
+자격을 얻다
+65
+purchase
+구매하다, 구매
+46
+consider
+숙고하다, 고려하다
+66
+conscience
+양심
+47
+recall
+상기하다, 철회하다, 회수하다, 상기, 철회, 회수
+67
+pose
+자세를 취하다, (문제를) 제기 하다, 자세
+48
+risk
+위험, 위험을 감수하다
+68
+length
+길이
+49
+treatment
+취급, 대우, 치료(법)
+69
+severe
+심한, 엄격한
+50
+engage
+관여하다, 약속하다, 약혼하다
+70
+decade
+10년, 10년간
+51
+motivate
+동기를 부여하다
+71
+occupy
+(시간·장소를) 차지하다, 전념 하다
+52
+clue
+실마리, 단서
+72
+acquire
+습득하다
+53
+cancer
+암, 악성 종양
+73
+interact
+상호 작용하다
+54
+elder
+나이가 위인 연장자
+74
+brief
+간단한, 간단한 보고, 간단히 알 리다
+55
+depress
+우울하게 하다, 의기소침[낙담] 하게 하다
+75
+observe
+관찰하다, ~을 보다, 준수하다
+56
+fascinate
+매료시키다, 마음을 빼앗다
+76
+poetry
+시, 운문
+57
+violent
+난폭한, 폭력적인
+77
+salary
+급료, 봉급
+58
+alarm
+놀람, 경보
+78
+grain
+곡물, 낟알
+59
+edge
+가장자리, 날카로움, 우위
+79
+meaningful
+의미 있는, 의미심장한
+60
+deserve
+~을 받을 만하다[가치가 있다]
+80
+weed
+잡초, 잡초를 제거하다

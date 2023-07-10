@@ -1,0 +1,120 @@
+41
+emotion
+감정
+61
+occur
+(사건이) 일어나다, 발생하다
+42
+amaze
+놀라게 하다
+62
+complex
+복잡한, 복합체
+43
+reduce
+줄이다, 낮추다
+63
+define
+정의하다, 한계 짓다, 한정하다
+44
+discover
+발견하다
+64
+proud
+자랑스러워하는, 자만하는
+45
+decide
+결심하다, 결정하다
+65
+aware
+인지하는, 알고 있는
+46
+benefit
+이익, 이익이 되다
+66
+contact
+접촉, 접촉하다
+47
+affect
+영향을 미치다, ~인 체하다
+67
+profession
+직업, 직종
+48
+level
+수준, 수평, 수평의, 평평하게 하 다
+68
+detail
+세부, 상술하다
+49
+chemistry
+화학, 교감(交感)
+69
+approach
+접근하다, 접근
+50
+immediate
+직접의, 즉각적인
+70
+career
+직업, 경력
+51
+thus
+그러므로, 따라서
+71
+package
+꾸러미, 포장, 포장하다
+52
+proper
+적절한, 알맞은
+72
+disappear
+사라지다
+53
+performance
+공연, 성적, 성과
+73
+novel
+(장편) 소설, 참신한
+54
+essence
+(사물의) 본질, 정수(精髓)
+74
+secure
+안전한, 안전하게 하다, 확보하 다
+55
+economic
+경제의, 경제학의
+75
+fashion
+유행, 패션, 방식, 만들어 내다
+56
+cell
+세포, 작은 방, 독방
+76
+despite
+~에도 불구하고
+57
+focus
+초점, 집중하다
+77
+background
+배경, 배경 지식, 이유
+58
+issue
+논란거리, 발행, 발행물, 발행하 다
+78
+solution
+해결, 해결책, 용액
+59
+participate
+참여하다, 참가하다 (in)
+79
+generate
+일으키다, 발생시키다
+60
+demand
+요구하다, 수요
+80
+eventually
+결국
