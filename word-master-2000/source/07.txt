@@ -1,0 +1,120 @@
+1
+survival
+생존
+21
+policy
+정책, 수단, 방법
+2
+comment
+논평, 주석(註釋) 논평하다
+22
+mass
+많은 양, 덩어리, 집단, 대중
+3
+leap
+뛰다, 도약하다, 도약
+23
+committee
+(상급 기관에 소속된) 위원회
+4
+survey
+설문 조사, 조사하다, 둘러보 다
+24
+accurate
+정확한
+5
+typical
+전형적인, 대표적인
+25
+arrange
+정리하다, 준비하다, 각색하다
+6
+mere
+단지 ~에 불과한
+26
+facility
+시설, 편의, 재능
+7
+mechanic
+기계공
+27
+consult
+상담하다, 참고하다
+8
+mood
+기분, 분위기
+28
+refer
+언급하다, 위탁하다
+9
+approve
+찬성하다, 승인하다
+29
+attach
+붙이다, 첨부하다, 소속시키다
+10
+rural
+시골의
+30
+recover
+회복하다, 되찾다
+11
+finance
+재정, 재무, 금융, 자금을 조달 하다
+31
+reward
+보상, 보답하다
+12
+seek
+찾다, 추구하다, 노력하다
+32
+enormous
+엄청난, 거대한
+13
+operation
+작업, 운영, 수술
+33
+domestic
+국내의, 가정의
+14
+crime
+범죄
+34
+wealth
+부(富), 재산
+15
+awful
+끔찍한, 지독한
+35
+elementary
+초보의, 기초적인
+16
+series
+연속, 시리즈물
+36
+gap
+격차, 틈
+17
+exhausted
+고갈된, 기진맥진한
+37
+except
+~을 제외하고는, 제외하다
+18
+absolute
+완전한, 절대적인
+38
+journey
+여행
+19
+surround
+둘러싸다
+39
+plain
+평범한, 명백한
+20
+display
+전시하다, 나타내다, 전시
+40
+downtown
+도심, 도심의, 도심지에

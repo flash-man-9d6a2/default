@@ -1,0 +1,120 @@
+1
+provide
+공급하다, 준비하다
+21
+ability
+능력
+2
+develop
+개발하다, 발달[발전]하다
+22
+expense
+비용, 지출
+3
+service
+서비스, 봉사, 공공 업무
+23
+local
+지방의, 지역의, 장소의
+4
+inform
+알리다, 통지하다
+24
+involve
+포함하다, 관련되다, (사건 등에) 말 려들게 하다
+5
+relationship
+관계
+25
+stress
+스트레스, 강조, 강조하다, 압력 을 주다
+6
+improve
+향상시키다, 향상하다
+26
+therefore
+그러므로, 그 결과
+7
+individual
+개인, 개인의, 개인적인
+27
+positive
+긍정적인, 확신하는
+8
+require
+필요로 하다, 요구하다
+28
+average
+평균, 평균의, 평균 ~이다
+9
+advise
+조언하다, 충고하다
+29
+ride
+(탈것을) 타다, 타기, 타고가기
+10
+social
+사회의, 사교적인
+30
+encourage
+촉구하다, 격려하다
+11
+amount
+총액, 총계, 양, 총계가 ~이 되 다
+31
+determine
+결정하다, 결심하다
+12
+behave
+(예의 바르게) 행동하다
+32
+international
+국제의, 국제적인
+13
+employ
+고용하다, (기술·방법 등을) 쓰 다
+33
+consume
+소비하다, 먹다[마시다]
+14
+attitude
+태도, 입장
+34
+impress
+깊은 인상을 주다, 감동시키다
+15
+research
+연구, 연구하다, 조사하다
+35
+object
+물체, 목표, 반대하다
+16
+audience
+청중, 관객
+36
+available
+이용 가능한, 쓸모 있는
+17
+volunteer
+자원봉사, 지원자, 자원하다
+37
+contain
+함유하다, 포함하다, 억제하다
+18
+influence
+영향, 영향을 미치는 것[사람], 영향을 끼치다
+38
+recognize
+인지하다, 인정하다
+19
+terrible
+끔찍한, 무서운
+39
+material
+재료, 물질, 물질의
+20
+opportunity
+기회
+40
+comfort
+편안하게 하다, 위로하다, 편안, 위로

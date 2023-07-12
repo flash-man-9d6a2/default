@@ -1,0 +1,120 @@
+1
+identify
+~임을 확인하다, 식별하다, 동 일시하다
+21
+physics
+물리학
+2
+standard
+기준, 표준 기준의, 표준의
+22
+evaluate
+평가하다
+3
+scale
+규모, 저울, 비늘
+23
+tremendous
+굉장한, 무시무시한
+4
+evident
+명백한
+24
+application
+적용, 신청
+5
+seldom
+거의 ~ 않는
+25
+vote
+투표, 투표하다
+6
+secretary
+비서, 서기관, 장관
+26
+spread
+퍼짐, 확산, 퍼지다, 펼치다
+7
+basis
+기초, 원리
+27
+impact
+충격, 영향, 충격[영향]을 주다
+8
+automatic
+자동적인, 기계적인
+28
+cooperate
+협력하다
+9
+region
+지역
+29
+emit
+(빛·열·소리 등을) 방출하다
+10
+rise
+상승, 오르다, 일어나다
+30
+request
+요청, 요청하다
+11
+addict
+중독시키다, 중독자
+31
+guarantee
+보증하다, 보증
+12
+disappoint
+실망시키다
+32
+resist
+저항하다
+13
+artificial
+인공적인, 인조의
+33
+fulfill
+달성하다, 이행하다, 실현하다
+14
+possess
+소유하다, ~의 마음을 사로잡다
+34
+stink
+역겹다, 악취를 풍기다, 악취
+15
+substance
+물질, 본질, 실체
+35
+grant
+승인하다, 수여하다
+16
+realistic
+현실적인, 현실주의의
+36
+rely
+의지하다, 믿다
+17
+encounter
+(우연히) 만나다, 마주침
+37
+permanent
+영원한, 영구적인
+18
+differ
+다르다, 의견을 달리하다
+38
+emergency
+비상 사태
+19
+principle
+원칙, 원리
+39
+rid
+제거하다
+20
+memorize
+기억하다
+40
+theme
+주제, 화제, 논제

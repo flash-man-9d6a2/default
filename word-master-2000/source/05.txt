@@ -1,0 +1,120 @@
+1
+conclude
+결론짓다, 끝내다
+21
+remark
+의견을 말하다, ~에 주목하다, 의견, 주목
+2
+donate
+기부하다
+22
+moral
+도덕적인
+3
+personality
+개성, 성격, 특색
+23
+embarrassed
+당황한
+4
+struggle
+싸우다, 노력하다, 투쟁, 노력
+24
+claim
+주장하다, 요구, 주장
+5
+advantage
+유리한 점, 이익
+25
+reasonable
+논리적인, 분별력이 있는
+6
+variety
+다양, 다양성
+26
+interrupt
+방해하다, 중단하다
+7
+enable
+가능하게 하다
+27
+discount
+할인, 할인하다
+8
+instruction
+지시, 제품 사용 설명서, 가르침
+28
+creature
+생물, 피조물
+9
+assume
+추정하다, (태도 등을) 취하다
+29
+heal
+치료하다, 낫게 하다
+10
+attempt
+시도하다, 시도
+30
+establish
+설립하다, 확립하다, 제정하다
+11
+incredible
+믿을 수 없는, (믿기 어려울 만 큼) 굉장한
+31
+revolution
+혁명, 갑작스런 변화, 회전
+12
+feature
+특징,특집기사,얼굴생김새~을 특징으로 하다, 주연하다
+32
+criticize
+비난하다
+13
+confuse
+혼동하다, 혼란시키다
+33
+convince
+확신시키다, 납득시키다
+14
+electronic
+전자의
+34
+efficient
+효율적인, 유능한
+15
+absorb
+흡수하다, (사람·마음을) 열중 시키다
+35
+stranger
+낯선 사람, 문외한
+16
+indicate
+가리키다, 나타내다
+36
+tide
+조수(潮水), 흐름
+17
+analyze
+분석하다
+37
+obtain
+획득하다, 통용되다, 행해지다
+18
+stock
+재고품, 저장, 가축, 저장하다, (물품을) 들여놓다
+38
+assist
+도움을 주다
+19
+resident
+거주자
+39
+disaster
+재앙, 재난, 재해
+20
+labor
+노동, 산고, 노동하다
+40
+terrific
+굉장한, 훌륭한

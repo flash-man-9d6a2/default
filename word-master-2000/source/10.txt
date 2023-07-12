@@ -1,0 +1,120 @@
+41
+hesitate
+주저하다, 망설이다
+61
+recite
+암송하다
+42
+location
+장소, 위치
+62
+gather
+모으다
+43
+restrict
+제한하다, 한정하다
+63
+cabin
+오두막집, 객실, 선실
+44
+organism
+유기체, 생물, 생명체
+64
+gear
+장비, 기어, 맞게 조정하다
+45
+resolve
+결심하다, 해결하다, 분해하다
+65
+ray
+광선
+46
+offer
+제공하다, 제안하다
+66
+release
+놓아주다, 방출하다, 발표하다, 석방, 발표
+47
+distribute
+분배하다, 분포시키다
+67
+rank
+등급, 지위, 매기다, (등급을) 차지하다
+48
+rainforest
+(열대) 우림
+68
+symphony
+교향곡, (소리의) 조화
+49
+circumstance
+상황, 환경
+69
+envy
+부러움, 부러워하다
+50
+interpret
+해석하다, 통역하다
+70
+corporate
+회사의, 법인의
+51
+suitable
+적절한, 적합한
+71
+alternative
+대안, 대안의
+52
+curve
+곡선(길), 속임수
+72
+retire
+은퇴하다
+53
+annoy
+괴롭히다, 귀찮게 하다
+73
+appeal
+호소하다, 항의하다, 관심을 끌 다, 호소, 항의, 매력
+54
+frighten
+겁먹게 하다
+74
+identical
+동일한, 일란성의
+55
+estimate
+견적, 평가, 평가하다
+75
+investment
+투자
+56
+refuse
+거절하다
+76
+autograph
+서명, 서명하다
+57
+adventure
+위험에 빠뜨리다
+77
+slave
+노예
+58
+entrance
+입장, 입구, 입학
+78
+harm
+손해, 손상, 해치다
+59
+persuade
+설득하다
+79
+authority
+권위, 당국
+60
+perceive
+인지하다, 인식하다
+80
+innocence
+결백, 무죄, 순진

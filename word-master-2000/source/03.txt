@@ -1,0 +1,120 @@
+1
+decrease
+줄다[감소하다], 줄이다, 감소
+21
+compose
+구성하다, 작곡하다, 작문하다
+2
+recycle
+재활용하다
+22
+genius
+천재, 천재성
+3
+desire
+욕망, 욕구, 바라다
+23
+reflect
+반영하다, 반사하다, 숙고하다
+4
+balance
+균형, 은행 잔고, 균형을 이루 다
+24
+cause
+~의 원인이 되다, 야기하다, 원인
+5
+negative
+부정적인
+25
+frequent
+빈번한, (장소·모임에) 자주 가 다
+6
+follow
+따라가다, (규칙을) 따르다
+26
+factor
+요인, 요소
+7
+account
+은행 계좌, 이야기, 설명, 설명 하다
+27
+extreme
+극단의, 극단
+8
+publish
+발표하다, 출판하다
+28
+tend
+(~하는) 경향이 있다 (to), 돌보 다
+9
+occasion
+경우, 특별한 일
+29
+politics
+정치, 정치학
+10
+replace
+대체하다
+30
+insist
+주장하다
+11
+constant
+일정한, 불변의 (수학에서의) 상수
+31
+extend
+연장하다, 넓히다
+12
+expert
+전문가
+32
+lonely
+외로운
+13
+term
+용어, 기간, 학기
+33
+habitat
+서식지, 주거지
+14
+relieve
+경감하다, 안도시키다
+34
+mental
+정신의
+15
+describe
+묘사하다, 표현하다
+35
+steady
+안정된, 한결같은, 꾸준한
+16
+biology
+생물학
+36
+exchange
+교환하다
+17
+due
+만기의, ~하기로 되어 있는
+37
+active
+활동적인, 적극적인
+18
+equipment
+장치, 장비
+38
+species
+(생물 분류상의) 종(種)
+19
+congratulate
+축하하다
+39
+athletic
+운동의, 운동 경기의
+20
+birth
+탄생
+40
+dental
+치아의
