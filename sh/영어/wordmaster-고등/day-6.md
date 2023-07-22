@@ -1,18 +1,42 @@
 q | a
 ---|---
-economy - integrate emission regular bravery isolate habitat minister □ entity ■ reluctant prevent trade-off sedentary principle appendix organism mindless responsibility sustain direction guilty confront regional breakthrough □ intrigue psychology sophisticated glacier calculate antibiotic crucial peak categorize religion □ runoff industrial radiation □ manufacture □ expenditure academic
-
-11 10 05 08 06 07 06 OS 01 02 03 D4 0201 00 economy [ikanami] ① 경제, 경제 활동[상태] The sharing economy is an economic system based on sharing assets or services, for free or for a fee, directly from and between individuals. 공유 경제는 무료로 또는 비용을 내고, 개인으로부터 직접 그리고 개인들 간에 자산이나 서비 스를 공유하는 것에 기초한 경제체제이다. 0202 ♥ 동합하다 integrate [íntagreit] The companies are planning to integrate management. 그 회사들은 경영을 통합할 계획 중이다. O incorporate ⓥ 통합하다, 합병하다 ® 법인의 0203 ㅁㅁ @ 1. (빛 · 열 · 가스 등의) 배출 2. 배출물, 배기가스 emission [imi[an] Methane is responsible for about 16 percent of global greenhouse gas emissions. 교과서 메탄은 지구 온실가스 배출의 약 16퍼센트의 원인을 차지한다. outflow ⓝ (돈 액체 등의) 유출(물), 분출 0204 00 a 1. 정기적인, 규칙적인 2. 정규의 3. (사이즈가) 보통의 regular [régjalar] I have a regular medical checkup. 나는 정기적인 건강검진을 받는다. irregular ⓐ 비정기적인, 불규칙한 on a regular basis 정기적으로 Frequent Collocations regular는 '정규직 직원, 단골 고객, 보통의 음식[음료]' 등의 어구로 자주 쓰인다. at regular intervals 일정한 간격을 두고 I 학평 regular employee 정규직 직원 regular tenants 정규 세입자 교과서 I regular customer 단골 고객 one regular waffle 보통의 와플 하나 모평 0205 00 ❻ 용기, 용감(성) bravery [breivari] Becoming a patriot needs bravery, conviction, and passion. 애국자가 되는 것은 용기, 신념, 그리고 열정이 필요하다. cowardice ⓝ 겁, 비겁 66 Word Master 고등 COMPLETE
-
-18 19 20 22 28 21 23 24 25 26 27 17 16 고립시키다, 분리하다 경제적인. 있는 데학 ansion 0206 00 [áisəleit] isolate The village was isolated by the floods. 그 마을은 홍수로 인해 고립되었다. + segregate ⓥ(사람들을 인종·종교 등에 따라) 분리[차별]하다 0207 00 ① 서식지 14 l의 합 강된 임 임. 칙]적으 habitat [habitaet] If we choose to protect these species, we must conserve their habitat. 교과서 우리가 이러한 종들을 보호하기로 결정한다면, 우리는 그들의 서식지를 보호해야 한다. Frequent Collocations habitat는 동식물 또는 환경과 관련된 지문에 주로 제시되어 '서식지 상실[파괴], 자연 서식지, 최적 의 서식지' 등의 어구로 자주 쓰인다. 하다 방사(성 habitat loss 서식지 상실 I 교과서 habitat destruction 서식지 파괴 natural habitat 자연 서식지 │학평│ the optimal habitat for survival 생존을 위한 최적의 서식지 수능 0208 00 minister [ministər] @ 1. 장관[각료] 2. 성직자, 목사 The Russian foreign minister was present at the meeting. 러시아 외무부 장관이 그 회의에 참석했다. clergyman ⓝ 성직자, 목사 prime minister 수상 0209 00 entity [éntati] n 실체; 실재; 독립체 The mind exists as a separate entity. 정신은 분리된 실체로 존재한다. 0210 00 ❷ 꺼리는, 마지못한, 주저하는 reluctant [riláktənt] Regina was reluctant to have conversations with elderly people at first. 교과서 Regina는 처음에 노인들과 대화하는 것을 꺼렸다. unwilling ⓐ마음 내키지 않는, 마지못해 하는
-11 10 09 08 06 01 02 03 04 06 07 OS 0211 00 prevent [privent] v 막다, 예방하다 Some moisture is needed in the air to prevent dehydration. 학평 탈수를 막으려면 공기 중에 약간의 습기가 필요하다. = inhibit ⓥ 억제하다, 제지하다 0212 10 trade-off @ 1. (대립되는 요소 사이의) 균형 2. (타협을 위한) 거래, 교환 [treid3(:)f] There has to be a trade-off between quality and quantity if we want to keep prices low. 가격을 낮게 유지하고 싶으면 질과 양 사이의 균형이 있어야 한다. 0213 00 ❸ 1. 앉아 있는 2. 정착해 있는, 이주하지 않는 sedentary [sédənteri] People with sedentary jobs need to eat less than those in active occupations. 앉아서 일하는 직업을 가진 사람들은 활동적인 직업의 사람들보다 더 적게 먹어야 한다. migratory ⓐ 이주하는 active ⓐ활동적인, 활발한 0214 00 ❻ 원리, 원칙 principle [prinsəpl] The Hunminjeongeum Haerye explains the ideas and principles behind the creation of Hangeul. '훈민정음 해례본'은 한글 창제의 바탕이 되는 발상과 원리를 설명한다. + basic principle 기본 원리 0215 00 l 1. 맹장, 충수 2. 부록 appendix [əpéndiks] The role of the appendix has been a mystery. 맹장의 역할은 수수께끼였다. supplement n 1. 추가, 보충 2. 부록 학평 68 Word Master 고등 COMPLETE
-
-16 18 17 20 19 21 22 23 24 25 26 27 28 ion 는, 예방 0216 OO l 유기체, (작은) 생물 모평 [5:rgənizəm] organism Most planktonic organisms are microscopic. 대부분의 플랑크톤 유기체는 극히 작다. 0217 00 무분별한, 어리석은 [maindlis] mindless The film was criticized by the critics for its mindless violence. 그 영화는 무분별한 폭력으로 평론가들의 비판을 받았다. stupid, idiotic, unintelligent mindful ⓐ 염두에 두는 0218 00 책임(감), 책무 responsibility It is now our responsibility to protect this UNESCO World [rispansabiləti] Heritage Site. 교과서를 이 UNESCO 세계 문화유산 지역을 보호하는 것은 현재 우리의 책임이다. accountability ⓝ 책임, 의무 0219 00 sustain 1. 지탱하게 하다, 지속하다 2. (생명을) 유지하다 [sastein] Hope sustained us during those difficult times. 그 어려운 시기 동안 희망이 우리를 지탱하게 했다. uphold ⓥ 유지하다, 옹호하다 0220 00 direction [dirékjan] ⑪ 1. 방향; 경향 2. 지도, 관리 3. 명령, 지시(서) 4. 감독, 연출 It is the second train that is moving in the opposite direction. 학평 반대 방향으로 움직이고 있는 것은 바로 그 두 번째 기차이다. instruction ⓝ 지도, 지시
-
-11 10 09 08 07 06 05 06 04 03 02 01 0221 ❸ 유죄의, 가책을 느끼는 guilty [gilti] No one believed her guilty of this terrible crime. 아무도 이 끔찍한 범죄에 대해 그녀가 유죄라고 믿지 않았다. innocent ⓐ 1. 무죄인, 결백한 2. 순진한 0222 00 confront [kanfránt] 직면하다, 맞서다 By risking and confronting failures and learning from them, we can become wiser. 교과서 실패를 무릅쓰고 직면하여 그것으로부터 배움으로써 우리는 더 현명해질 수 있다. cope with ~에 대처하다[맞서다] 0223 10 ❸ 지역의, 지방의 regional [rí:d3ənəl] The new city project is aimed at balancing regional development. 새로운 도시 계획은 지역 발전의 균형을 잡는 것을 목표로 한다. = local ⓐ 지역의, 현지의 0224 00 n 돌파(구), 비약적 발전 학평 [breik0ru:] breakthrough Newton and Leibniz pioneered a breakthrough in mathematic calculations. Newton과 Leibniz는 수학적 계산의 돌파구를 선도했다. break through 돌파구를 찾다, ~을 뚫고 나아가다 0225 □ □ v 1. 호기심을 자극하다 2. 음모를 꾸미다 ① 음모, 계략 intrigue [intrí:g] Other people's houses always intrigued him. 다른 사람들의 집은 언제나 그의 호기심을 자극했다. = conspiracy ⓝ 음모, 모의 70 Word Master 고등 COMPLETE
-
-24 27 25 26 28 20 22 23 21 19 17 18 16 책감 nsion 0226 00 [saikálədzi] psychology n 심리(학), 심리 작용 Behavioral scientists combine knowledge of sociology and psychology. 행동과학자들은 사회학과 심리학의 지식을 결합한다. 14 직면 (분) 성, 국 0227 00 l 1. 세련된, 지적인 2. (기계 등이) 정교한 학평 [səfístikeitid] sophisticated Even with sophisticated artificial intelligence, the initial programming must be done by humans. 정교한 인공지능에서조차도, 초기의 프로그래밍은 인간에 의해 수행되어야 한다. elaborate ⓐ 정교한 ⓥ 정교하게 만들다, 상술하다 0228 00 N 빙하 [gléifar] glacier More than half of the earth's glaciers are in Alaska. 절반이 넘는 지구 빙하가 알래스카에 있다. 0229 00 ♥ 계산하다, 추정하다 [kælkjuleit] calculate This instrument calculates distances precisely. 이 도구는 거리를 정확하게 계산한다. E compute ⓥ 계산하다, 산출하다 0230 00 l 항생제, 항생 물질 a 항생 물질의 [aentibaiátik] antibiotic The miraculous power of antibiotics has caused some doctors to use them too much. 고미시 항생제의 기적 같은 힘은 일부 의사들이 그것을 너무 많이 사용하게 만들어 왔다.
-
-11 10 09 08 07 06 05 04 06 03 02 01 0231 00 crucial [krú:{əl] ❸ 대단히 중대한, 결정적인 This aid money is crucial to the government's economic policies. 이 원조금은 정부의 경제 정책에 대단히 중요하다. 日 critical, essential + play a crucial role[part] in ~에 결정적인 역할을 하다 0232 □ □ □ peak [pi:k] n 산꼭대기; 절정, 최고점 Medellin's crime rate has fallen by more than 80 percent from its peak. 교과서 Medellin의 범죄율은 절정에 달했을 때에 비해 80퍼센트 넘게 줄었다. summit ⓝ 1. 산꼭대기; 절정 2. 정상 회담 bottom ⓝ (밑)바닥, 최하위 0233 00 [kætəgəraiz] categorize V 분류하다, 범주에 넣다 Participants were categorized according to school age. 참가자들은 학령별로 분류되었다. classify ⓥ 분류하다, 등급으로 나누다 0234 ㅁㅇ ❻ 종교, (종교처럼) 신봉하는 것 religion [rilid3ən] There has always been a conflict between science and religion. 과학과 종교 사이에는 항상 갈등이 있어 왔다. 0235 □ □ l 1. 유출 액체, (액체의) 넘쳐흐름 2. 결승전; 결선 투표 runoff [rán3(:)f] The fertilizer runoff ends up in fish and other marine life for kilometers around. 교과서 비료 유출수는 결국 수 킬로미터 주변의 물고기와 다른 해양 생물로 스며들게 된다. + run off 1. (액체를) 흘러넘치게 하다 2. 줄행랑을 치다 72 Word Master 고등 COMPLETE
-
-20 23 24 25 26 21 17 18 19 22 27 28 16 Qu 0236 00 [indástriəl] industrial ❸ 산업[공업]의 Industrial production has risen by 1.5% since September. 9월 이래 산업 생산량이 1.5퍼센트 상승했다. Industrial Revolution 산업혁명 Frequent Collocations industrial은 '산업 활동, 산업 시설[장비], 산업화된 농업' 등의 어구로 자주 쓰인다. industrial activity 산업 활동 교과서 industrial facilities 산업 시설 교과서 industrial machinery 산업 장비 모평 industrial agriculture 산업화된 농업 I교과서 I modern industrial robots 현대식 산업용 로봇 │ 교과서 ion 2 고려 주! 한 0237 □ □ radiation l 방사선; (열·에너지 등의) 복사 [reidiéisan] Patients are exposed to high doses of radiation during cancer treatment. 환자들은 암 치료 중에 많은 양의 방사선에 노출된다. 0238 00 [mànjufæktjər] @ 제조[생산]; 제품, 상품 1. 제조[생산]하다 2. (이야기를) 자어내다 manufacture The date of manufacture of the TV has been authenticated. 그 TV의 제조일자가 인증되었다. fabricate ⓥ1. 제작[조립]하다 2. (이야기를) 지어내다 0239 □ □ ① 지출, 경비, 소비(액) [ikspéndit[ar] expenditure There have been cuts in local expenditure on education. 교육에 대한 지방 지출이 삭감되었다. 0240 00 ❸ 학업의, 학교의, 학문의 n 대학생; 대학 교수 [aekadémik] academic Over the next decade, big data will be replacing traditional academic guidance methods. 교과서 향후 10년 동안 빅데이터가 전통적인 학업 지도 방식을 대체하게 될 것이다.
+economy		| 경제, 경제 활동[상태]
+integrate 	| 통합하다
+emission	| 1. (빛 · 열 · 가스 등의) 배출 2. 배출물, 배기가스
+regular		| 1. 정기적인, 규칙적인 2. 정규의 3. (사이즈가) 보통의
+bravery 	| 용기, 용감(성)
+isolate 	| 고립시키다, 분리하다
+habitat 	| 서식지
+minister	| 1. 장관[각료] 2. 성직자, 목사
+entity 		| 실체; 실재; 독립체
+reluctant 	| 꺼리는, 마지못한, 주저하는
+prevent		| 막다, 예방하다
+trade-off 	| 1. (대립되는 요소 사이의) 균형 2. (타협을 위한) 거래, 교환
+sedentary 	| 1. 앉아 있는 2. 정착해 있는, 이주하지 않는
+principle 	| 원리, 원칙
+appendix 	| 1. 맹장, 충수 2. 부록
+organism 	| l 유기체, (작은) 생물
+mindless 	| 무분별한, 어리석은
+responsibility 	| 책임(감), 책무
+sustain 	| 1. 지탱하게 하다, 지속하다 2. (생명을) 유지하다
+direction 	| 1. 방향; 경향 2. 지도, 관리 3. 명령, 지시(서) 4. 감독, 연출
+guilty		| 유죄의, 가책을 느끼는 
+confront 	| 직면하다, 맞서다
+regional 	| 지역의, 지방의
+breakthrough 	| 돌파(구), 비약적 발전
+intrigue 	| 1. 호기심을 자극하다 2. 음모를 꾸미다, 음모, 계략
+psychology 	| 심리(학), 심리 작용
+sophisticated 	| 1. 세련된, 지적인 2. (기계 등이) 정교한
+glacier 	| 빙하
+calculate 	| 계산하다, 추정하다
+antibiotic 	| 항생제, 항생 물질, 항생 물질의
+crucial 	| 대단히 중대한, 결정적인
+peak 		| 산꼭대기; 절정, 최고점
+categorize 	| 분류하다, 범주에 넣다
+religion	| 종교, (종교처럼) 신봉하는 것
+runoff		| 1. 유출 액체, (액체의) 넘쳐흐름 2. 결승전; 결선 투표 
+industrial 	| 산업[공업]의
+radiation	| l 방사선; (열·에너지 등의) 복사
+manufacture	| 제조[생산]; 제품, 상품 1. 제조[생산]하다 2. (이야기를) 지어내다
+expenditure 	| 지출, 경비, 소비(액)
+academic	| 학업의, 학교의, 학문의, 대학생; 대학 교수
