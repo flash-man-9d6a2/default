@@ -1,8 +1,8 @@
  q  | a
 --- | ---
-questions 1		| A
-questions 2		| A
-questions 3		| B
-questions 4		| B
-questions 5		| C
-questions 6		| C
+questions 1[hint]		| A
+questions 2[hint]		| A
+questions 3[hint]		| B
+questions 4[hint]		| B
+questions 5[hint]		| C
+questions 6[hint]		| C
