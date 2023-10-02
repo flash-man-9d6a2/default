@@ -6,3 +6,5 @@ questions 3		| O
 questions 4		| X
 questions 5		| O
 questions 6		| O
+questions 7		| o 
+questions 8		| x 
