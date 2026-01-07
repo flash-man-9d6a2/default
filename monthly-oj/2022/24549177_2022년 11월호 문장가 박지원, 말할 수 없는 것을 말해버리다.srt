@@ -1,0 +1,63 @@
+1
+00:00:00,000 --> 00:00:02,000
+thought
+
+2
+00:00:02,000 --> 00:00:04,000
+Korean.
+
+3
+00:00:04,000 --> 00:00:06,000
+Podcast episode.
+
+4
+00:00:06,000 --> 00:00:08,000
+Transcribe into Korean script.
+
+5
+00:00:08,000 --> 00:00:10,000
+Complete, accurate transcript.
+
+6
+00:00:10,000 --> 00:00:12,000
+Indicate speaker changes.
+
+7
+00:00:12,000 --> 00:00:14,000
+Include timestamps (MM:SS).
+
+8
+00:00:00,000 --> 00:00:33,600
+*   *Opening  - 00:27):* *   Intro music and a loud car engine/honk sound. *   Host (Kim Hun-soo): Introduces the segment. "월말 김훈수의 김훈수입니다." *   Guest (Prof. Lee Kwang-soo): Introduces himself. "고전 중층 비행물체 이광수 교수님 안녕하세요!" "안녕하세요! UFO 이광수입니다." *   Context: Discussing the author Bak Ji-won (Bak Ji-won - Pen name Yeon-am). *   Host: Mentions Bak Ji-won is famous, everyone knows the name from school (Heo Saeng-jeon, Hojil). *   Guest: Explains Bak Ji-won's unique writing style (Munchebanjeong) and the political context with King Jeongjo.
+
+9
+00:00:27,000 --> 00:00:54,600
+*   *Discussion on Bak Ji-won's works  - 01:51):* *   Humor: A joke about a recent National Intelligence Service (NIS) head also named Bak Ji-won. *   Focus: The work *Yeollyeo Ham-yang Bak-ssi Jeon* (Story of the Virtuous Woman Park from Hamyang). *   Guest: Explains that Bak Ji-won used a different style that offended the ruling class (Yangban). King Jeongjo liked him but "disciplined" him with the *Munchebanjeong* to protect him.
+
+10
+00:01:51,000 --> 00:02:22,600
+*   *The Story: Part 1 - The Mother's Coin  - 02:49):* *   The story starts with a preface. *    Bak Ji-won discusses the concept of 'Yeollyeo' (Virtuous Woman) and how it became a social norm/curse for both Yangban and commoners. *   The First Story: Two sons (Yangban) are discussing blocking someone's promotion because their ancestor was a widow with a bad rumor. *   Their Mother (also a widow): Overhears and confronts them. "You are also sons of a widow."
+
+11
+00:02:49,000 --> 00:03:19,800
+*   *The Mother's Secret  - 04:30):* *   The mother shows them a coin (Sangpyeong Tongbo). *   The coin is worn smooth—no rim, no letters. *   She reveals she rolled this coin every night for 20 years to suppress her physical desires/sexual urges (Libido/Jung-yok). *   Poetic description of lonely nights (rain, crickets, etc.) and a young servant (Jong-nyeon) snoring next to her. *   She says the coin saved her life (like an amulet). *   The sons are moved.
+
+12
+00:04:30,000 --> 00:04:46,000
+*   *Discussion/Analysis  - 06:17):* *   Host & Guest laugh at the "coin rolling" as a way to burn energy/distract from desire. *   The "Jong-nyeon" part is funny/suggestive. *   Bak Ji-won's intent: Criticizing the hypocrisy and burden of the 'Yeollyeo' ideology.
+
+13
+00:06:17,000 --> 00:06:49,800
+*   *The Story: Part 2 - The Widow from Hamyang  - 07:44):* *   The story moves to Bak Ji-won's time as an official in Hamyang. *   A story about a young widow from the Park family in Hamyang. *   She married a sickly man (Lim Jung-sul) and became a widow after 6 months. *   She served her parents-in-law for 3 years, then committed suicide on the anniversary of her husband's death. *   Bak Ji-won sighs and calls her a "Virtuous Woman" (Yeollyeo).
+
+14
+00:07:44,000 --> 00:08:19,600
+*   *Deep Analysis - The Hidden Truth  - 10:48):* *   The distinction between Part 1 and Part 2. *   Yangban widow (Mother) vs. Middle-class (Jung-in) widow. *   Why did the second widow die? *   The "Park-ssi" vs "Park-seong" distinction in titles. *   The guest's theory: The middle-class family might have forced her to suicide so they could claim the "Yeollyeo" title and gain Yangban status or tax benefits. *   Bak Ji-won used the name "Bak-ssi" (Yangban title) instead of "Bak-seong" (Middle-class title) to hint at this social ladder climbing.
+
+15
+00:10:48,000 --> 00:11:22,400
+*   *Philosophical Conclusion  - end):* *   Discussion on the origins of marriage and monogamy as a social contract. *   'Yeollyeo' ideology as a way to control women and maintain social order/inheritance for men. *   Bak Ji-won's "Munchebanjeong" as a sophisticated form of social satire. *   Closing remarks and outro music. *   Transcribe verbatim including filler words (어, 그, 아) where they add flavor, but keep it readable. *   Mark speakers: 김훈수 (Host), 이광수 (Guest). *   Add timestamps every minute or so, or at major topic changes.
+
+16
+00:00:30,000 --> 00:00:43,200
+*   (Self-Correction during drafting): Make sure to catch the "박지원" joke about the NIS director . Ensure the "동전 굴리기" (rolling the coin) section captures the poetic nature of Bak Ji-won's original text.
