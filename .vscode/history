@@ -26,3 +26,5 @@
 : 1769512848:0;flash-man file-v2
 : 1769549922:0;flash-man mp3
 : 1769552798:0;flash-man file-v2
+: 1769912519:0;flash-man rename-markdown -d monthly-oj
+: 1769912742:0;flash-man rename-markdown -d monthly-oj -e
