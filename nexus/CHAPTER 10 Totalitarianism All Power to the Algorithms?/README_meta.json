@@ -1,0 +1,445 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER 10",
+      "heading_level": null,
+      "page_id": 348,
+      "polygon": [
+        [
+          244.23046875,
+          121.53759765625
+        ],
+        [
+          371.443359375,
+          121.53759765625
+        ],
+        [
+          371.443359375,
+          142.78509521484375
+        ],
+        [
+          244.23046875,
+          142.78509521484375
+        ]
+      ]
+    },
+    {
+      "title": "Totalitarianism: All Power to the\nAlgorithms?",
+      "heading_level": null,
+      "page_id": 348,
+      "polygon": [
+        [
+          110.4169921875,
+          195.0062255859375
+        ],
+        [
+          503.3622131347656,
+          195.0062255859375
+        ],
+        [
+          503.3622131347656,
+          264.0062255859375
+        ],
+        [
+          110.4169921875,
+          264.0062255859375
+        ]
+      ]
+    },
+    {
+      "title": "THE BOT PRISON",
+      "heading_level": null,
+      "page_id": 351,
+      "polygon": [
+        [
+          232.6376953125,
+          505.3157653808594
+        ],
+        [
+          381.08038330078125,
+          505.3157653808594
+        ],
+        [
+          381.08038330078125,
+          522.45703125
+        ],
+        [
+          232.6376953125,
+          522.45703125
+        ]
+      ]
+    },
+    {
+      "title": "ALGORITHMIC TAKEOVER",
+      "heading_level": null,
+      "page_id": 354,
+      "polygon": [
+        [
+          198.720703125,
+          73.7666015625
+        ],
+        [
+          416.0702819824219,
+          73.7666015625
+        ],
+        [
+          416.0702819824219,
+          92.9091796875
+        ],
+        [
+          198.720703125,
+          92.9091796875
+        ]
+      ]
+    },
+    {
+      "title": "THE DICTATOR'S DILEMMA",
+      "heading_level": null,
+      "page_id": 358,
+      "polygon": [
+        [
+          195.732421875,
+          134.8160400390625
+        ],
+        [
+          418.8642272949219,
+          134.8160400390625
+        ],
+        [
+          418.8642272949219,
+          152.173828125
+        ],
+        [
+          195.732421875,
+          152.173828125
+        ]
+      ]
+    },
+    {
+      "title": "OceanofPDF.com",
+      "heading_level": null,
+      "page_id": 359,
+      "polygon": [
+        [
+          252.80859375,
+          570.2449951171875
+        ],
+        [
+          358.0269775390625,
+          570.2449951171875
+        ],
+        [
+          358.0269775390625,
+          585.4921875
+        ],
+        [
+          252.80859375,
+          585.4921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 348,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          341
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 349,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          631
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 350,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          639
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 351,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          559
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 352,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          673
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 353,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          675
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 354,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          575
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 355,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          608
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 356,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          576
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 357,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 358,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          587
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 359,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          495
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/README"
+}
