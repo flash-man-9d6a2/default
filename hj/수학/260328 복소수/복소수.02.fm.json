@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "url_md_from": "problems/0436.md",
+      "question": "$z\\bar{z} = k$ ($k$는 실수)일 때, $\\bar{z}$를 $z$로 표현하면?",
+      "answer": "$\\bar{z} = \\dfrac{k}{z}$. 켤레복소수를 역수 형태로 바꾸어 대수적으로 처리할 수 있다."
+    },
+    {
+      "url_md_from": "problems/0436.md",
+      "question": "켤레 연산의 선형성 공식과 활용법은?",
+      "answer": "$\\overline{\\alpha + \\beta} = \\bar{\\alpha} + \\bar{\\beta}$, $\\overline{\\alpha\\beta} = \\bar{\\alpha}\\bar{\\beta}$. 주어진 등식의 양변에 켤레를 취해 새로운 방정식을 얻는 데 활용한다."
+    },
+    {
+      "url_md_from": "problems/0436.md",
+      "question": "$\\overline{a + bi}$, $\\overline{bi}$, $\\overline{a}$ ($a, b \\in \\mathbb{R}$)를 각각 계산하면?",
+      "answer": "$\\overline{a + bi} = a - bi$. $\\overline{bi} = -bi$ (순허수의 켤레는 부호 반전). $\\overline{a} = a$ (실수의 켤레는 자기 자신)."
+    },
+    {
+      "url_md_from": "problems/0436.md",
+      "question": "$|\\alpha|^2 = |\\beta|^2 = k$이고 $\\alpha + \\beta$가 주어질 때, $\\alpha\\beta$를 구하는 전형적인 전략은?",
+      "answer": "① $\\bar{\\alpha} = k/\\alpha$, $\\bar{\\beta} = k/\\beta$로 치환 → ② $\\alpha+\\beta$에 켤레 연산 적용하여 $\\bar{\\alpha}+\\bar{\\beta}$ 등식 획득 → ③ 통분하면 $k(\\alpha+\\beta)/(\\alpha\\beta) = \\overline{(\\alpha+\\beta)}$ 형태 → ④ $\\alpha\\beta$ 계산"
+    },
+    {
+      "url_md_from": "problems/0455.md",
+      "question": "$z + \\bar{z}$와 $z - \\bar{z}$는 각각 항상 어떤 수인가?",
+      "answer": "$z + \\bar{z} = 2\\,\\text{Re}(z)$는 항상 실수(양수·음수·0 모두 가능). $z - \\bar{z} = 2i\\,\\text{Im}(z)$는 순허수 또는 $0$. 둘 다 \"항상 양의 실수\" 또는 \"항상 순허수\"가 아님에 주의."
+    },
+    {
+      "url_md_from": "problems/0455.md",
+      "question": "$z - \\dfrac{1}{z}$가 순허수가 되기 위한 조건은?",
+      "answer": "$\\text{Re}\\!\\left(z - \\dfrac{1}{z}\\right) = 0$. $z = a+bi$로 계산하면 $a = 0$ 또는 $|z|^2 = 1$이 조건. 두 경우 모두 가능하므로 $|z|=1$만이 조건이 아니다."
+    },
+    {
+      "url_md_from": "problems/0455.md",
+      "question": "$0$은 순허수인가? 순허수의 정확한 정의는?",
+      "answer": "$0$은 순허수가 아니다. 순허수: 실수부 $= 0$이고 허수부 $\\neq 0$인 복소수 $bi$ $(b \\neq 0)$. $4i \\cdot 0 = 0$처럼 형태가 $(\\text{실수}) \\times i$라도 허수부가 $0$이면 순허수가 아니다."
+    },
+    {
+      "url_md_from": "problems/0455.md",
+      "question": "복소수 명제가 거짓임을 보일 때 가장 효과적인 전략은?",
+      "answer": "간단한 특수값(예: $z = i$, $z = 1$, $z = 1+i$, $z = 2i$)을 대입하여 반례를 찾는다. 경계 케이스(순허수, 실수, $|z|=1$)를 먼저 시도하면 빠르게 반례를 발견할 수 있다."
+    },
+    {
+      "url_md_from": "problems/0458.md",
+      "question": "켤레복소수 연산의 기본 성질 4가지는?",
+      "answer": "① $\\overline{z_1 \\pm z_2} = \\bar{z}_1 \\pm \\bar{z}_2$ ② $\\overline{z_1 z_2} = \\bar{z}_1 \\bar{z}_2$ ③ $\\overline{(z_1/z_2)} = \\bar{z}_1/\\bar{z}_2$ ④ $\\overline{\\bar{z}} = z$"
+    },
+    {
+      "url_md_from": "problems/0458.md",
+      "question": "$\\overline{z^n} = \\bar{z}^n$이 성립하는가? 그 근거는?",
+      "answer": "성립한다. $\\overline{z^n} = \\overline{z \\cdot z^{n-1}} = \\bar{z} \\cdot \\overline{z^{n-1}} = \\bar{z} \\cdot \\bar{z}^{n-1} = \\bar{z}^n$ (귀납적으로 증명)."
+    },
+    {
+      "url_md_from": "problems/0458.md",
+      "question": "복소수 수열 $a_n$이 $i$의 거듭제곱을 포함할 때, 수열의 주기를 어떻게 파악하는가?",
+      "answer": "$i^n$은 4주기이므로 $a_n$의 주기도 4의 배수. $n = 1, 2, 3, 4$를 직접 계산하여 한 주기의 패턴을 구하고, 이를 전체 합산에 활용한다."
+    },
+    {
+      "url_md_from": "problems/0458.md",
+      "question": "$z\\bar{z}$는 항상 어떤 수인가?",
+      "answer": "항상 음이 아닌 실수 ($\\geq 0$). $z = a+bi$이면 $z\\bar{z} = a^2+b^2 = |z|^2$. $z = 0$이면 $0$, 그 외에는 양수."
+    },
+    {
+      "url_md_from": "problems/0463.md",
+      "question": "$\\alpha z + \\alpha \\bar{z} = 0$ ($\\alpha \\neq 0$) 형태의 조건은 $z$에 대해 무엇을 의미하는가?",
+      "answer": "$\\alpha(z + \\bar{z}) = 0$이고 $\\alpha \\neq 0$이므로 $z + \\bar{z} = 0$, 즉 $\\text{Re}(z) = 0$. $z$의 실수부가 $0$임(순허수 또는 $0$)."
+    },
+    {
+      "url_md_from": "problems/0463.md",
+      "question": "복소수가 실수 매개변수 $a$를 포함할 때 실수부·허수부를 분리하는 방법은?",
+      "answer": "각 항의 계수를 실수부·허수부로 분리: $(p+qi) \\cdot a^n = pa^n + (qa^n)i$. 전체를 전개한 후 실수부끼리, 허수부끼리 모으면 $\\text{Re}(z)$, $\\text{Im}(z)$를 $a$의 다항식으로 표현할 수 있다."
+    },
+    {
+      "url_md_from": "problems/0463.md",
+      "question": "복소수 조건 문제에서 \"$z \\neq 0$\" 조건을 검증하는 방법은?",
+      "answer": "구한 모든 해를 원래 식에 대입하여 $\\text{Re}(z) = 0$이고 $\\text{Im}(z) = 0$이 동시에 성립하는지 확인. 두 조건이 동시에 만족되면 $z = 0$이므로 제외한다."
+    },
+    {
+      "url_md_from": "problems/0463.md",
+      "question": "$z + \\bar{z} = 0$과 $z - \\bar{z} = 0$은 각각 $z$에 대해 무엇을 의미하는가?",
+      "answer": "$z + \\bar{z} = 2\\,\\text{Re}(z) = 0 \\Rightarrow \\text{Re}(z) = 0$ (순허수 또는 $0$). $z - \\bar{z} = 2i\\,\\text{Im}(z) = 0 \\Rightarrow \\text{Im}(z) = 0$ ($z$는 실수)."
+    },
+    {
+      "url_md_from": "problems/0465.md",
+      "question": "$z = \\bar{z}$이면 $z$는 어떤 수인가? $z = -\\bar{z}$이면?",
+      "answer": "$z = \\bar{z} \\Leftrightarrow \\text{Im}(z) = 0$이므로 $z$는 **실수**. $z = -\\bar{z} \\Leftrightarrow \\text{Re}(z) = 0$이므로 $z$는 **순허수 또는 0**."
+    },
+    {
+      "url_md_from": "problems/0465.md",
+      "question": "이차방정식 $ax^2 + bx + c = 0$의 두 근의 곱을 빠르게 구하는 방법은? (비에타 공식)",
+      "answer": "두 근의 곱 $= \\dfrac{c}{a}$. 직접 근을 구하지 않아도 된다."
+    },
+    {
+      "url_md_from": "problems/0465.md",
+      "question": "복소수 조건에서 실수부 $= 0$ 또는 허수부 $= 0$을 방정식으로 세울 때 주의할 점은?",
+      "answer": "조건에서 나온 방정식의 근이 \"$z \\neq 0$\" 조건을 위반하는지 확인해야 한다. 실수부 $= 0$인 근 $x_0$에서 허수부도 $0$이면 $z = 0$이 되어 제외."
+    }
+  ]
+}
