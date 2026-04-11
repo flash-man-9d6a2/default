@@ -30,3 +30,5 @@
 : 1769912742:0;flash-man rename-markdown -d monthly-oj -e
 : 1769912785:0;flash-man rename-markdown -d .
 : 1769912825:0;flash-man rename-markdown -d . -e
+: 1775831629:0;flash-man --file
+: 1775831642:0;flash-man file-v2
