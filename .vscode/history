@@ -32,3 +32,7 @@
 : 1769912825:0;flash-man rename-markdown -d . -e
 : 1775831629:0;flash-man --file
 : 1775831642:0;flash-man file-v2
+: 1780277063:0;ccs
+: 1780277141:0;ccs --plugin-dir /Users/swcho/projects/swcho/flash-man/flash-man-plugin
+: 1780277151:0;ccs update
+: 1780277168:0;ccs --plugin-dir /Users/swcho/projects/swcho/flash-man/flash-man-plugin
