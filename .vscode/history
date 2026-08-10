@@ -38,3 +38,7 @@
 : 1780277168:0;ccs --plugin-dir /Users/swcho/projects/swcho/flash-man/flash-man-plugin
 : 1780970648:0;ccs update
 : 1780970662:0;ccs --plugin-dir /Users/swcho/projects/swcho/flash-man/flash-man-plugin
+: 1786345216:0;cd books/260801\ Iconologia
+: 1786345229:0;ccs
+: 1786345234:0;ccs update
+: 1786345268:0;ccs
